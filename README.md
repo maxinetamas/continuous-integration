@@ -1,4 +1,4 @@
-# Continuous Integration ![https://github.com/mikeizbicki/continuous-integration/actions?query=workflow%3Atests](https://github.com/mikeizbicki/continuous-integration/workflows/tests/badge.svg)
+# Continuous Integration ![https://github.com/maxinetamas/continuous-integration/actions?query=workflow%3Atests](https://github.com/maxinetamas/continuous-integration/workflows/tests/badge.svg)
 
 *This is the first homework assignment for Claremont McKenna's [CSCI46: Data Structures](https://github.com/mikeizbicki/cmc-csci046) course and [CSCI143: Big Data](https://github.com/mikeizbicki/cmc-csci143) course.*
 
@@ -207,7 +207,7 @@ The URL should be of the format
 ```
 https://github.com/mikeizbicki/continuous-integration
 ```
-but with your github username instead of mine.
+but with your github username instead of mine (so maxinetamas).
 
 **IMPORTANT:**
 It is not enough in this class to simply push your final code onto github.
